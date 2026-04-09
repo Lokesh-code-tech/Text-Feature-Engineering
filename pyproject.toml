@@ -1,0 +1,15 @@
+[project]
+name = "text-feature-engineering-project"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "bs4>=0.0.2",
+    "nltk>=3.9.4",
+    "numpy>=2.4.4",
+    "pandas>=3.0.2",
+    "scikit-learn>=1.8.0",
+    "selenium>=4.41.0",
+    "webdriver-manager>=4.0.2",
+]
